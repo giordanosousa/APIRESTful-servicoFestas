@@ -2,6 +2,8 @@
 
 Bem-vindo ao projeto de API RESTful para gerenciamento de serviços e festas! 🎉 Este repositório contém uma aplicação construída com Node.js, Express e MongoDB, oferecendo uma solução completa para organização de eventos.
 
+O projeto consiste em uma API RESTful construída com Node.js, Express e MongoDB, proporcionando uma solução completa para serviços de festas. A aplicação gerencia informações sobre serviços disponíveis e permite a criação, atualização, exclusão e visualização de festas, garantindo um orçamento equilibrado.
+
 ##Funcionalidades Principais
 ##Serviços
 - Cadastro de Serviços: Adicione novos serviços com informações como nome, descrição, preço e imagem.
